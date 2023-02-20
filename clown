@@ -1,0 +1,18 @@
+<head>
+<meta charset="UTF-8">
+</head>
+<body>
+
+<h1> I AM A CLOWN </h1>
+
+<p style="font-size:1000%;"> &#129313 </p>
+
+</body>
+</html>
+
+body {
+  font-family: system-ui;
+  background: lightblue;
+  color: black;
+  text-align: center;
+}
